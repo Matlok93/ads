@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://shope.ee/6ADO1WGq1O';
+        var origin = 'https://e-himpunanresepi.blogspot.com/';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
